@@ -63,7 +63,7 @@ export default function Hero() {
               className="absolute -top-10 -right-10 bg-white p-3 rounded-3xl shadow-xl z-20 border border-slate-100 hidden sm:block"
             >
               <img 
-                src="/Logo.png" 
+                src="/logo.png" 
                 alt="Logo Floating" 
                 className="w-20 h-auto"
                 onError={(e) => { e.currentTarget.style.display = 'none'; }}

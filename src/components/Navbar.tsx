@@ -19,7 +19,7 @@ export default function Navbar() {
         <div className="flex justify-between h-20 items-center">
             <div className="flex items-center gap-3">
               <img 
-                src="/Logo.png" 
+                src="/logo.png" 
                 alt="TARAR Logo" 
                 className="h-12 w-auto object-contain"
                 onError={(e) => {
