@@ -48,7 +48,7 @@ export default function Hero() {
           >
             <div className="relative z-10 rounded-[2.5rem] overflow-hidden shadow-2xl skew-y-3 hover:skew-y-0 transition-all duration-700">
               <img
-                src="/hero.jpg"
+                src="/Hero.jpg"
                 alt="Action humanitaire TARAR"
                 className="w-full h-full object-cover grayscale-[0.2] hover:grayscale-0 transition-all"
                 referrerPolicy="no-referrer"
@@ -63,7 +63,7 @@ export default function Hero() {
               className="absolute -top-10 -right-10 bg-white p-3 rounded-3xl shadow-xl z-20 border border-slate-100 hidden sm:block"
             >
               <img 
-                src="/logo.png" 
+                src="/Logo.png" 
                 alt="Logo Floating" 
                 className="w-20 h-auto"
                 onError={(e) => { e.currentTarget.style.display = 'none'; }}

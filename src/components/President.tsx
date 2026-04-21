@@ -15,7 +15,7 @@ export default function President() {
           >
             <div className="relative z-10 rounded-[3rem] overflow-hidden shadow-2xl">
               <img
-                src="/president.jpg"
+                src="/President.jpg"
                 alt="Président de TARAR"
                 className="w-full h-auto object-cover"
                 onError={(e) => {
