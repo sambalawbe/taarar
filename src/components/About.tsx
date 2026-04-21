@@ -29,7 +29,7 @@ export default function About() {
               Une association ancrée au Sénégal
             </h3>
             <p className="text-slate-600 text-lg leading-relaxed">
-              L'association TARAR est une organisation à but non lucratif fièrement établie à Thiès. Depuis notre siège de Thiès - Aiglon, nous œuvrons pour le rayonnement social et le bien-être des populations sénégalaises.
+              L'association TARAR est un organisme fièrement établie à Thiès. Depuis notre siège de Thiès - Aiglon, nous œuvrons pour le rayonnement social et le bien-être des populations sénégalaises.
             </p>
         </div>
 

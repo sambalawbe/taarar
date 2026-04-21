@@ -9,6 +9,7 @@ export default function Navbar() {
     { name: 'Accueil', href: '#' },
     { name: 'À propos', href: '#about' },
     { name: 'Nos Actions', href: '#actions' },
+    { name: 'Activités', href: '#activites' },
     { name: 'Contact', href: '#contact' },
   ];
 
