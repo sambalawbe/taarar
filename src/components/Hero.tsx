@@ -48,10 +48,13 @@ export default function Hero() {
           >
             <div className="relative z-10 rounded-[2.5rem] overflow-hidden shadow-2xl skew-y-3 hover:skew-y-0 transition-all duration-700">
               <img
-                src="https://picsum.photos/seed/humanity/800/1000"
-                alt="Humanitarian action"
+                src="/hero.jpg"
+                alt="Action humanitaire TARAR"
                 className="w-full h-full object-cover grayscale-[0.2] hover:grayscale-0 transition-all"
                 referrerPolicy="no-referrer"
+                onError={(e) => {
+                  e.currentTarget.src = "https://picsum.photos/seed/humanity/800/1000";
+                }}
               />
             </div>
             <motion.div

@@ -78,7 +78,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] uppercase font-bold tracking-widest opacity-50">
-          <p>© 2024 Association TARAR - Tous droits réservés.</p>
+          <p>© 2026 Association TARAR - Tous droits réservés.</p>
           <div className="flex gap-8">
             <a href="#">Mentions Légales</a>
             <a href="#">Confidentialité</a>
